@@ -1,0 +1,18 @@
+{
+  "total_kotoba": 50,
+  "total_bunpo": 34,
+  "by_level": {
+    "N5": {
+      "kotoba": 20,
+      "bunpo": 15
+    },
+    "N4": {
+      "kotoba": 15,
+      "bunpo": 10
+    },
+    "N3": {
+      "kotoba": 15,
+      "bunpo": 9
+    }
+  }
+}

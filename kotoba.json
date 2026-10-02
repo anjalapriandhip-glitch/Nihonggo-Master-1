@@ -1,0 +1,502 @@
+[
+  {
+    "id": "n5_k_001",
+    "level": "N5",
+    "kanji": "食べる",
+    "kana": "たべる",
+    "romaji": "taberu",
+    "meaning": "makan",
+    "example": "私は毎日ご飯を食べます。",
+    "exampleMeaning": "Saya makan nasi setiap hari."
+  },
+  {
+    "id": "n5_k_002",
+    "level": "N5",
+    "kanji": "飲む",
+    "kana": "のむ",
+    "romaji": "nomu",
+    "meaning": "minum",
+    "example": "水を飲みます。",
+    "exampleMeaning": "Saya minum air."
+  },
+  {
+    "id": "n5_k_003",
+    "level": "N5",
+    "kanji": "見る",
+    "kana": "みる",
+    "romaji": "miru",
+    "meaning": "melihat/menonton",
+    "example": "テレビを見ます。",
+    "exampleMeaning": "Saya menonton TV."
+  },
+  {
+    "id": "n5_k_004",
+    "level": "N5",
+    "kanji": "行く",
+    "kana": "いく",
+    "romaji": "iku",
+    "meaning": "pergi",
+    "example": "学校へ行きます。",
+    "exampleMeaning": "Saya pergi ke sekolah."
+  },
+  {
+    "id": "n5_k_005",
+    "level": "N5",
+    "kanji": "来る",
+    "kana": "くる",
+    "romaji": "kuru",
+    "meaning": "datang",
+    "example": "友達が来ます。",
+    "exampleMeaning": "Teman datang."
+  },
+  {
+    "id": "n5_k_006",
+    "level": "N5",
+    "kanji": "帰る",
+    "kana": "かえる",
+    "romaji": "kaeru",
+    "meaning": "pulang",
+    "example": "家へ帰ります。",
+    "exampleMeaning": "Saya pulang ke rumah."
+  },
+  {
+    "id": "n5_k_007",
+    "level": "N5",
+    "kanji": "学校",
+    "kana": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "sekolah",
+    "example": "学校で勉強します。",
+    "exampleMeaning": "Saya belajar di sekolah."
+  },
+  {
+    "id": "n5_k_008",
+    "level": "N5",
+    "kanji": "先生",
+    "kana": "せんせい",
+    "romaji": "sensei",
+    "meaning": "guru",
+    "example": "先生は親切です。",
+    "exampleMeaning": "Guru itu baik."
+  },
+  {
+    "id": "n5_k_009",
+    "level": "N5",
+    "kanji": "学生",
+    "kana": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "siswa/mahasiswa",
+    "example": "私は学生です。",
+    "exampleMeaning": "Saya seorang pelajar."
+  },
+  {
+    "id": "n5_k_010",
+    "level": "N5",
+    "kanji": "友達",
+    "kana": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "teman",
+    "example": "友達と話します。",
+    "exampleMeaning": "Saya berbicara dengan teman."
+  },
+  {
+    "id": "n5_k_011",
+    "level": "N5",
+    "kanji": "今日",
+    "kana": "きょう",
+    "romaji": "kyou",
+    "meaning": "hari ini",
+    "example": "今日は暑いです。",
+    "exampleMeaning": "Hari ini panas."
+  },
+  {
+    "id": "n5_k_012",
+    "level": "N5",
+    "kanji": "明日",
+    "kana": "あした",
+    "romaji": "ashita",
+    "meaning": "besok",
+    "example": "明日行きます。",
+    "exampleMeaning": "Saya pergi besok."
+  },
+  {
+    "id": "n5_k_013",
+    "level": "N5",
+    "kanji": "昨日",
+    "kana": "きのう",
+    "romaji": "kinou",
+    "meaning": "kemarin",
+    "example": "昨日映画を見ました。",
+    "exampleMeaning": "Kemarin saya menonton film."
+  },
+  {
+    "id": "n5_k_014",
+    "level": "N5",
+    "kanji": "大きい",
+    "kana": "おおきい",
+    "romaji": "ookii",
+    "meaning": "besar",
+    "example": "大きい犬です。",
+    "exampleMeaning": "Anjing yang besar."
+  },
+  {
+    "id": "n5_k_015",
+    "level": "N5",
+    "kanji": "小さい",
+    "kana": "ちいさい",
+    "romaji": "chiisai",
+    "meaning": "kecil",
+    "example": "小さい猫です。",
+    "exampleMeaning": "Kucing yang kecil."
+  },
+  {
+    "id": "n5_k_016",
+    "level": "N5",
+    "kanji": "新しい",
+    "kana": "あたらしい",
+    "romaji": "atarashii",
+    "meaning": "baru",
+    "example": "新しい本です。",
+    "exampleMeaning": "Buku baru."
+  },
+  {
+    "id": "n5_k_017",
+    "level": "N5",
+    "kanji": "古い",
+    "kana": "ふるい",
+    "romaji": "furui",
+    "meaning": "lama/tua",
+    "example": "古い車です。",
+    "exampleMeaning": "Mobil lama."
+  },
+  {
+    "id": "n5_k_018",
+    "level": "N5",
+    "kanji": "高い",
+    "kana": "たかい",
+    "romaji": "takai",
+    "meaning": "mahal/tinggi",
+    "example": "この時計は高いです。",
+    "exampleMeaning": "Jam ini mahal."
+  },
+  {
+    "id": "n5_k_019",
+    "level": "N5",
+    "kanji": "安い",
+    "kana": "やすい",
+    "romaji": "yasui",
+    "meaning": "murah",
+    "example": "この店は安いです。",
+    "exampleMeaning": "Toko ini murah."
+  },
+  {
+    "id": "n5_k_020",
+    "level": "N5",
+    "kanji": "好き",
+    "kana": "すき",
+    "romaji": "suki",
+    "meaning": "suka",
+    "example": "日本語が好きです。",
+    "exampleMeaning": "Saya suka bahasa Jepang."
+  },
+  {
+    "id": "n4_k_001",
+    "level": "N4",
+    "kanji": "経験",
+    "kana": "けいけん",
+    "romaji": "keiken",
+    "meaning": "pengalaman",
+    "example": "日本へ行った経験があります。",
+    "exampleMeaning": "Saya punya pengalaman pergi ke Jepang."
+  },
+  {
+    "id": "n4_k_002",
+    "level": "N4",
+    "kanji": "準備",
+    "kana": "じゅんび",
+    "romaji": "junbi",
+    "meaning": "persiapan",
+    "example": "旅行の準備をします。",
+    "exampleMeaning": "Saya mempersiapkan perjalanan."
+  },
+  {
+    "id": "n4_k_003",
+    "level": "N4",
+    "kanji": "必要",
+    "kana": "ひつよう",
+    "romaji": "hitsuyou",
+    "meaning": "perlu/diperlukan",
+    "example": "パスポートが必要です。",
+    "exampleMeaning": "Paspor diperlukan."
+  },
+  {
+    "id": "n4_k_004",
+    "level": "N4",
+    "kanji": "説明",
+    "kana": "せつめい",
+    "romaji": "setsumei",
+    "meaning": "penjelasan",
+    "example": "先生が説明しました。",
+    "exampleMeaning": "Guru menjelaskan."
+  },
+  {
+    "id": "n4_k_005",
+    "level": "N4",
+    "kanji": "約束",
+    "kana": "やくそく",
+    "romaji": "yakusoku",
+    "meaning": "janji",
+    "example": "友達と約束があります。",
+    "exampleMeaning": "Saya punya janji dengan teman."
+  },
+  {
+    "id": "n4_k_006",
+    "level": "N4",
+    "kanji": "運転",
+    "kana": "うんてん",
+    "romaji": "unten",
+    "meaning": "mengemudi",
+    "example": "車を運転できます。",
+    "exampleMeaning": "Saya bisa mengemudi mobil."
+  },
+  {
+    "id": "n4_k_007",
+    "level": "N4",
+    "kanji": "始める",
+    "kana": "はじめる",
+    "romaji": "hajimeru",
+    "meaning": "memulai",
+    "example": "勉強を始めます。",
+    "exampleMeaning": "Saya mulai belajar."
+  },
+  {
+    "id": "n4_k_008",
+    "level": "N4",
+    "kanji": "続ける",
+    "kana": "つづける",
+    "romaji": "tsuzukeru",
+    "meaning": "melanjutkan",
+    "example": "毎日勉強を続けます。",
+    "exampleMeaning": "Saya terus belajar setiap hari."
+  },
+  {
+    "id": "n4_k_009",
+    "level": "N4",
+    "kanji": "忘れる",
+    "kana": "わすれる",
+    "romaji": "wasureru",
+    "meaning": "lupa",
+    "example": "宿題を忘れました。",
+    "exampleMeaning": "Saya lupa PR."
+  },
+  {
+    "id": "n4_k_010",
+    "level": "N4",
+    "kanji": "思う",
+    "kana": "おもう",
+    "romaji": "omou",
+    "meaning": "berpikir/merasa",
+    "example": "そう思います。",
+    "exampleMeaning": "Saya pikir begitu."
+  },
+  {
+    "id": "n4_k_011",
+    "level": "N4",
+    "kanji": "決める",
+    "kana": "きめる",
+    "romaji": "kimeru",
+    "meaning": "memutuskan",
+    "example": "旅行の日を決めました。",
+    "exampleMeaning": "Saya memutuskan tanggal perjalanan."
+  },
+  {
+    "id": "n4_k_012",
+    "level": "N4",
+    "kanji": "変える",
+    "kana": "かえる",
+    "romaji": "kaeru",
+    "meaning": "mengubah",
+    "example": "予定を変えます。",
+    "exampleMeaning": "Saya mengubah rencana."
+  },
+  {
+    "id": "n4_k_013",
+    "level": "N4",
+    "kanji": "場合",
+    "kana": "ばあい",
+    "romaji": "baai",
+    "meaning": "kasus/keadaan",
+    "example": "雨の場合は中止です。",
+    "exampleMeaning": "Jika hujan, dibatalkan."
+  },
+  {
+    "id": "n4_k_014",
+    "level": "N4",
+    "kanji": "最近",
+    "kana": "さいきん",
+    "romaji": "saikin",
+    "meaning": "akhir-akhir ini",
+    "example": "最近忙しいです。",
+    "exampleMeaning": "Akhir-akhir ini sibuk."
+  },
+  {
+    "id": "n4_k_015",
+    "level": "N4",
+    "kanji": "特に",
+    "kana": "とくに",
+    "romaji": "tokuni",
+    "meaning": "khususnya",
+    "example": "特に問題ありません。",
+    "exampleMeaning": "Tidak ada masalah khusus."
+  },
+  {
+    "id": "n3_k_001",
+    "level": "N3",
+    "kanji": "影響",
+    "kana": "えいきょう",
+    "romaji": "eikyou",
+    "meaning": "pengaruh",
+    "example": "天気は生活に影響します。",
+    "exampleMeaning": "Cuaca memengaruhi kehidupan."
+  },
+  {
+    "id": "n3_k_002",
+    "level": "N3",
+    "kanji": "環境",
+    "kana": "かんきょう",
+    "romaji": "kankyou",
+    "meaning": "lingkungan",
+    "example": "環境を守りましょう。",
+    "exampleMeaning": "Mari menjaga lingkungan."
+  },
+  {
+    "id": "n3_k_003",
+    "level": "N3",
+    "kanji": "原因",
+    "kana": "げんいん",
+    "romaji": "gen'in",
+    "meaning": "penyebab",
+    "example": "事故の原因を調べます。",
+    "exampleMeaning": "Kami menyelidiki penyebab kecelakaan."
+  },
+  {
+    "id": "n3_k_004",
+    "level": "N3",
+    "kanji": "結果",
+    "kana": "けっか",
+    "romaji": "kekka",
+    "meaning": "hasil",
+    "example": "試験の結果が出ました。",
+    "exampleMeaning": "Hasil ujian sudah keluar."
+  },
+  {
+    "id": "n3_k_005",
+    "level": "N3",
+    "kanji": "関係",
+    "kana": "かんけい",
+    "romaji": "kankei",
+    "meaning": "hubungan",
+    "example": "二人には関係があります。",
+    "exampleMeaning": "Keduanya memiliki hubungan."
+  },
+  {
+    "id": "n3_k_006",
+    "level": "N3",
+    "kanji": "必要性",
+    "kana": "ひつようせい",
+    "romaji": "hitsuyousei",
+    "meaning": "kebutuhan/urgensi",
+    "example": "教育の必要性を説明します。",
+    "exampleMeaning": "Menjelaskan pentingnya pendidikan."
+  },
+  {
+    "id": "n3_k_007",
+    "level": "N3",
+    "kanji": "判断",
+    "kana": "はんだん",
+    "romaji": "handan",
+    "meaning": "penilaian/keputusan",
+    "example": "自分で判断してください。",
+    "exampleMeaning": "Silakan menilai sendiri."
+  },
+  {
+    "id": "n3_k_008",
+    "level": "N3",
+    "kanji": "解決",
+    "kana": "かいけつ",
+    "romaji": "kaiketsu",
+    "meaning": "penyelesaian",
+    "example": "問題を解決します。",
+    "exampleMeaning": "Menyelesaikan masalah."
+  },
+  {
+    "id": "n3_k_009",
+    "level": "N3",
+    "kanji": "確認",
+    "kana": "かくにん",
+    "romaji": "kakunin",
+    "meaning": "konfirmasi/pemeriksaan",
+    "example": "予定を確認します。",
+    "exampleMeaning": "Saya memeriksa jadwal."
+  },
+  {
+    "id": "n3_k_010",
+    "level": "N3",
+    "kanji": "参加",
+    "kana": "さんか",
+    "romaji": "sanka",
+    "meaning": "partisipasi",
+    "example": "会議に参加します。",
+    "exampleMeaning": "Saya ikut rapat."
+  },
+  {
+    "id": "n3_k_011",
+    "level": "N3",
+    "kanji": "増える",
+    "kana": "ふえる",
+    "romaji": "fueru",
+    "meaning": "bertambah",
+    "example": "人口が増えています。",
+    "exampleMeaning": "Populasi bertambah."
+  },
+  {
+    "id": "n3_k_012",
+    "level": "N3",
+    "kanji": "減る",
+    "kana": "へる",
+    "romaji": "heru",
+    "meaning": "berkurang",
+    "example": "仕事が減りました。",
+    "exampleMeaning": "Pekerjaan berkurang."
+  },
+  {
+    "id": "n3_k_013",
+    "level": "N3",
+    "kanji": "比べる",
+    "kana": "くらべる",
+    "romaji": "kuraberu",
+    "meaning": "membandingkan",
+    "example": "二つの商品を比べます。",
+    "exampleMeaning": "Membandingkan dua produk."
+  },
+  {
+    "id": "n3_k_014",
+    "level": "N3",
+    "kanji": "伝える",
+    "kana": "つたえる",
+    "romaji": "tsutaeru",
+    "meaning": "menyampaikan",
+    "example": "気持ちを伝えます。",
+    "exampleMeaning": "Menyampaikan perasaan."
+  },
+  {
+    "id": "n3_k_015",
+    "level": "N3",
+    "kanji": "受ける",
+    "kana": "うける",
+    "romaji": "ukeru",
+    "meaning": "menerima/mengikuti",
+    "example": "試験を受けます。",
+    "exampleMeaning": "Mengikuti ujian."
+  }
+]

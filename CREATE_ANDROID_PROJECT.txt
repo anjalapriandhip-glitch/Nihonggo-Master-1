@@ -1,0 +1,8 @@
+Jika kamu membuka project ini di komputer:
+1. Install Flutter.
+2. Masuk ke folder project.
+3. Jalankan: flutter create .
+4. Jalankan: flutter pub get
+5. Build APK: flutter build apk --release
+
+Setelah `flutter create .`, file lib/, assets/, pubspec.yaml, dan database dari ZIP tetap digunakan.

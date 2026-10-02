@@ -1,0 +1,308 @@
+[
+  {
+    "id": "n5_b_001",
+    "level": "N5",
+    "pattern": "は",
+    "formula": "A は B です",
+    "meaning": "Topik: A adalah B.",
+    "example": "私は学生です。",
+    "exampleMeaning": "Saya adalah pelajar."
+  },
+  {
+    "id": "n5_b_002",
+    "level": "N5",
+    "pattern": "が",
+    "formula": "N が あります／います",
+    "meaning": "Menyatakan keberadaan.",
+    "example": "机の上に本があります。",
+    "exampleMeaning": "Ada buku di atas meja."
+  },
+  {
+    "id": "n5_b_003",
+    "level": "N5",
+    "pattern": "を",
+    "formula": "N を V",
+    "meaning": "Penanda objek langsung.",
+    "example": "ご飯を食べます。",
+    "exampleMeaning": "Makan nasi."
+  },
+  {
+    "id": "n5_b_004",
+    "level": "N5",
+    "pattern": "に",
+    "formula": "Tempat に あります／います",
+    "meaning": "Menunjukkan lokasi keberadaan.",
+    "example": "学校に先生がいます。",
+    "exampleMeaning": "Ada guru di sekolah."
+  },
+  {
+    "id": "n5_b_005",
+    "level": "N5",
+    "pattern": "へ",
+    "formula": "Tempat へ 行きます",
+    "meaning": "Menunjukkan arah tujuan.",
+    "example": "日本へ行きます。",
+    "exampleMeaning": "Pergi ke Jepang."
+  },
+  {
+    "id": "n5_b_006",
+    "level": "N5",
+    "pattern": "で",
+    "formula": "Tempat で V",
+    "meaning": "Tempat berlangsungnya aktivitas.",
+    "example": "図書館で勉強します。",
+    "exampleMeaning": "Belajar di perpustakaan."
+  },
+  {
+    "id": "n5_b_007",
+    "level": "N5",
+    "pattern": "と",
+    "formula": "N と N",
+    "meaning": "Dan/dengan.",
+    "example": "友達と映画を見ます。",
+    "exampleMeaning": "Menonton film dengan teman."
+  },
+  {
+    "id": "n5_b_008",
+    "level": "N5",
+    "pattern": "も",
+    "formula": "N も",
+    "meaning": "Juga.",
+    "example": "私も学生です。",
+    "exampleMeaning": "Saya juga pelajar."
+  },
+  {
+    "id": "n5_b_009",
+    "level": "N5",
+    "pattern": "から",
+    "formula": "Waktu/Tempat から",
+    "meaning": "Dari titik awal.",
+    "example": "九時から勉強します。",
+    "exampleMeaning": "Belajar mulai jam sembilan."
+  },
+  {
+    "id": "n5_b_010",
+    "level": "N5",
+    "pattern": "まで",
+    "formula": "Waktu/Tempat まで",
+    "meaning": "Sampai batas tertentu.",
+    "example": "五時まで働きます。",
+    "exampleMeaning": "Bekerja sampai jam lima."
+  },
+  {
+    "id": "n5_b_011",
+    "level": "N5",
+    "pattern": "たい",
+    "formula": "Vます-stem + たい",
+    "meaning": "Ingin melakukan.",
+    "example": "日本へ行きたいです。",
+    "exampleMeaning": "Saya ingin pergi ke Jepang."
+  },
+  {
+    "id": "n5_b_012",
+    "level": "N5",
+    "pattern": "てください",
+    "formula": "Vて + ください",
+    "meaning": "Permintaan sopan.",
+    "example": "名前を書いてください。",
+    "exampleMeaning": "Tolong tulis nama."
+  },
+  {
+    "id": "n5_b_013",
+    "level": "N5",
+    "pattern": "てもいい",
+    "formula": "Vて + もいいです",
+    "meaning": "Meminta/memberi izin.",
+    "example": "ここに座ってもいいです。",
+    "exampleMeaning": "Boleh duduk di sini."
+  },
+  {
+    "id": "n5_b_014",
+    "level": "N5",
+    "pattern": "てはいけない",
+    "formula": "Vて + はいけません",
+    "meaning": "Larangan.",
+    "example": "ここで写真を撮ってはいけません。",
+    "exampleMeaning": "Tidak boleh mengambil foto di sini."
+  },
+  {
+    "id": "n5_b_015",
+    "level": "N5",
+    "pattern": "ないでください",
+    "formula": "Vない + でください",
+    "meaning": "Tolong jangan.",
+    "example": "忘れないでください。",
+    "exampleMeaning": "Tolong jangan lupa."
+  },
+  {
+    "id": "n4_b_016",
+    "level": "N4",
+    "pattern": "ながら",
+    "formula": "Vます-stem + ながら",
+    "meaning": "Melakukan dua aktivitas bersamaan.",
+    "example": "音楽を聞きながら勉強します。",
+    "exampleMeaning": "Belajar sambil mendengarkan musik."
+  },
+  {
+    "id": "n4_b_017",
+    "level": "N4",
+    "pattern": "たことがある",
+    "formula": "Vた + ことがあります",
+    "meaning": "Pernah melakukan.",
+    "example": "日本へ行ったことがあります。",
+    "exampleMeaning": "Pernah pergi ke Jepang."
+  },
+  {
+    "id": "n4_b_018",
+    "level": "N4",
+    "pattern": "たり～たりする",
+    "formula": "Vた + り、Vた + りします",
+    "meaning": "Memberi contoh beberapa aktivitas.",
+    "example": "週末は映画を見たり、本を読んだりします。",
+    "exampleMeaning": "Akhir pekan menonton film, membaca buku, dan sebagainya."
+  },
+  {
+    "id": "n4_b_019",
+    "level": "N4",
+    "pattern": "そうです",
+    "formula": "Vます-stem/Adj + そうです",
+    "meaning": "Tampaknya/kelihatannya.",
+    "example": "雨が降りそうです。",
+    "exampleMeaning": "Kelihatannya akan hujan."
+  },
+  {
+    "id": "n4_b_020",
+    "level": "N4",
+    "pattern": "つもり",
+    "formula": "V辞書形/ない形 + つもり",
+    "meaning": "Berniat/berencana.",
+    "example": "来年日本へ行くつもりです。",
+    "exampleMeaning": "Saya berniat pergi ke Jepang tahun depan."
+  },
+  {
+    "id": "n4_b_021",
+    "level": "N4",
+    "pattern": "なければならない",
+    "formula": "Vない + なければならない",
+    "meaning": "Harus.",
+    "example": "宿題をしなければなりません。",
+    "exampleMeaning": "Harus mengerjakan PR."
+  },
+  {
+    "id": "n4_b_022",
+    "level": "N4",
+    "pattern": "なくてもいい",
+    "formula": "Vない + なくてもいい",
+    "meaning": "Tidak harus/tidak perlu.",
+    "example": "明日は来なくてもいいです。",
+    "exampleMeaning": "Besok tidak perlu datang."
+  },
+  {
+    "id": "n4_b_023",
+    "level": "N4",
+    "pattern": "ほうがいい",
+    "formula": "Vた + ほうがいい",
+    "meaning": "Sebaiknya.",
+    "example": "早く寝たほうがいいです。",
+    "exampleMeaning": "Sebaiknya tidur lebih awal."
+  },
+  {
+    "id": "n4_b_024",
+    "level": "N4",
+    "pattern": "ので",
+    "formula": "普通形 + ので",
+    "meaning": "Karena/sebab (lebih halus).",
+    "example": "雨なので、出かけません。",
+    "exampleMeaning": "Karena hujan, saya tidak keluar."
+  },
+  {
+    "id": "n4_b_025",
+    "level": "N4",
+    "pattern": "のに",
+    "formula": "普通形 + のに",
+    "meaning": "Padahal/meskipun.",
+    "example": "勉強したのに、忘れました。",
+    "exampleMeaning": "Padahal sudah belajar, tetapi lupa."
+  },
+  {
+    "id": "n3_b_026",
+    "level": "N3",
+    "pattern": "わけではない",
+    "formula": "普通形 + わけではない",
+    "meaning": "Bukan berarti bahwa...",
+    "example": "嫌いなわけではありません。",
+    "exampleMeaning": "Bukan berarti saya tidak suka."
+  },
+  {
+    "id": "n3_b_027",
+    "level": "N3",
+    "pattern": "わけがない",
+    "formula": "普通形 + わけがない",
+    "meaning": "Tidak mungkin.",
+    "example": "そんなことがあるわけがない。",
+    "exampleMeaning": "Tidak mungkin hal seperti itu terjadi."
+  },
+  {
+    "id": "n3_b_028",
+    "level": "N3",
+    "pattern": "ように",
+    "formula": "V辞書形/ない形 + ように",
+    "meaning": "Agar/supaya.",
+    "example": "忘れないようにメモします。",
+    "exampleMeaning": "Saya mencatat agar tidak lupa."
+  },
+  {
+    "id": "n3_b_029",
+    "level": "N3",
+    "pattern": "ために",
+    "formula": "V辞書形 / Nの + ために",
+    "meaning": "Untuk/demi.",
+    "example": "日本で働くために日本語を勉強します。",
+    "exampleMeaning": "Belajar bahasa Jepang untuk bekerja di Jepang."
+  },
+  {
+    "id": "n3_b_030",
+    "level": "N3",
+    "pattern": "ことになっている",
+    "formula": "V辞書形/ない形 + ことになっている",
+    "meaning": "Sudah ditetapkan/aturan.",
+    "example": "ここでは靴を脱ぐことになっています。",
+    "exampleMeaning": "Di sini sudah ditetapkan untuk melepas sepatu."
+  },
+  {
+    "id": "n3_b_031",
+    "level": "N3",
+    "pattern": "ことにする",
+    "formula": "V辞書形/ない形 + ことにする",
+    "meaning": "Memutuskan untuk.",
+    "example": "毎日運動することにしました。",
+    "exampleMeaning": "Saya memutuskan untuk berolahraga setiap hari."
+  },
+  {
+    "id": "n3_b_032",
+    "level": "N3",
+    "pattern": "ばかり",
+    "formula": "Vた + ばかり",
+    "meaning": "Baru saja.",
+    "example": "日本へ来たばかりです。",
+    "exampleMeaning": "Saya baru saja datang ke Jepang."
+  },
+  {
+    "id": "n3_b_033",
+    "level": "N3",
+    "pattern": "はず",
+    "formula": "普通形 + はずです",
+    "meaning": "Seharusnya/kemungkinan besar.",
+    "example": "彼は来るはずです。",
+    "exampleMeaning": "Dia seharusnya datang."
+  },
+  {
+    "id": "n3_b_034",
+    "level": "N3",
+    "pattern": "たとえ～ても",
+    "formula": "たとえ + 普通形 + ても",
+    "meaning": "Bahkan jika/meskipun.",
+    "example": "たとえ忙しくても、勉強します。",
+    "exampleMeaning": "Meskipun sibuk, saya tetap belajar."
+  }
+]

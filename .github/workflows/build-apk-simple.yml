@@ -1,6 +1,6 @@
-name: Build APK (Simple)
+name: Build APK (Nihongo Master)
 
-"on":
+on:
   workflow_dispatch:
 
 jobs:
@@ -20,25 +20,30 @@ jobs:
       - name: Create Android platform
         run: flutter create --platforms=android --org com.nihongo.master .
 
+      - name: Arrange Flutter project
+        run: |
+          mkdir -p lib/screens
+          mkdir -p lib/services
+          mkdir -p lib/widgets
+          mkdir -p assets/data
+
+          mv -f main.dart lib/main.dart
+          mv -f home_screen.dart lib/screens/home_screen.dart
+          mv -f kotoba_screen.dart lib/screens/kotoba_screen.dart
+          mv -f bunpo_screen.dart lib/screens/bunpo_screen.dart
+          mv -f quiz_screen.dart lib/screens/quiz_screen.dart
+          mv -f progress_screen.dart lib/screens/progress_screen.dart
+
+          mv -f data_service.dart lib/services/data_service.dart
+          mv -f progress_service.dart lib/services/progress_service.dart
+          mv -f level_chips.dart lib/widgets/level_chips.dart
+          mv -f models.dart lib/models.dart
+
+          mv -f kotoba.json assets/data/kotoba.json
+          mv -f bunpo.json assets/data/bunpo.json
+
       - name: Install packages
         run: flutter pub get
-
-      - name: Fix Dart dot shorthands
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          p = Path("lib/main.dart")
-          s = p.read_text()
-          s = s.replace(
-              "colorScheme: .fromSeed(",
-              "colorScheme: ColorScheme.fromSeed("
-          )
-          s = s.replace(
-              "mainAxisAlignment: .center",
-              "mainAxisAlignment: MainAxisAlignment.center"
-          )
-          p.write_text(s)
-          PY
 
       - name: Build APK
         run: flutter build apk --release
